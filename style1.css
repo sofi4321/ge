@@ -1,0 +1,14 @@
+body{
+    width: 400px;
+    
+    text-align: center;
+    background-color: bisque;
+}
+#contaner{
+    text-align: start;
+    
+}
+#button{
+    border: 2px black solid;
+    border-radius: 3px;
+}
